@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: home
 
 ---
 # Get to Know Me
