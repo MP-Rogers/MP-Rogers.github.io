@@ -19,4 +19,4 @@ This is where I get to share my marine biology stories and fun facts, as well as
 In that sense it's both communication, and documentation.
 Welcome. Glad to have you along for the ride
 
-<a class="twitter-timeline" href="https://twitter.com/Rogers_M_P">Tweets by MP Rogers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/Rogers_M_P?ref_src=twsrc%5Etfw">Tweets by MP Rogers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
