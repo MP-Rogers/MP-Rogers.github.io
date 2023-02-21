@@ -18,3 +18,5 @@ which will give me an opportunity to work under more seasoned marine scientists,
 This is where I get to share my marine biology stories and fun facts, as well as any analysis I find cool. I find that a lot of science types have trouble communicating exactly what we do, and just how cool it is. This is my attempt to get better at that, and tell some fun stories along the way.
 In that sense it's both communication, and documentation.
 Welcome. Glad to have you along for the ride
+
+<a class="twitter-timeline" href="https://twitter.com/Rogers_M_P">Tweets by MP Rogers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
