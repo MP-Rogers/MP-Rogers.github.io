@@ -6,6 +6,7 @@ description: Announcing a new development in my career as a marine biologist
 tags:
   -marine-biology
 ---
+{% for tag in page.tags %} {% include tag.html tag=tag %} {% endfor %}
 
 # The Start of Something New
 
