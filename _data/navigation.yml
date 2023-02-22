@@ -1,7 +1,7 @@
 - name: Blog
   link: /blog/
 - name: Topics
-  link: categories.html
+  link: /categories.html
   #  dropdown: 
 #    - name: Page 2
 #      link: page-2
