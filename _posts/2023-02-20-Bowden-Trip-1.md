@@ -1,31 +1,27 @@
 ---
 type: post
 categories: 
-- Kee Farms
-- Marine Biology
+- Kee-Farms
+- Marine-Biology
 - Diving
+
 tags: 
-- Kee Farms
-- Marine Biology
+- Kee-Farms
+- Marine-Biology
 - Diving
+
+
 title: A Trip to Bowden Bay
 image: /docs/assets/images/MeAtBowden.jpeg
 date: 15/02/2023
 ---
 # A Trip to Bowden Bay
 
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
+<div class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag %}
+    {% endfor %}
 </div>
-
 
 
 So about a week ago, on February 11, 2023, I went on a dive trip with my team at Kee Farms. Here is a little bit of that story.
@@ -43,7 +39,7 @@ Some of the irish moss in hand
 </div>
 
 <div align="center">
-<img src ="/docs/assets/images/GracilariaonBeach.jpeg" width ="350" height ="300">
+<img src ="/docs/assets/images/GracilariaOnBeach.jpeg" width ="350" height ="300">
   
 Some of the Irish Moss on the beach from our first trip to White Horses
 </div>
