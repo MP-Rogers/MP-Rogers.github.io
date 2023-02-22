@@ -1,7 +1,7 @@
 ---
 title: Home Page
 description: Sun, Sea and Sand is my personal site, where I can share my love of the sea, and some of my work and stories as a young marine biologist in Jamaica.
-
+show_sidebar: true
 ---
 # Get to Know Me
 

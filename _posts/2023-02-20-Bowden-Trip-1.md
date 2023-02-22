@@ -1,13 +1,13 @@
 ---
 type: post
 categories: 
-- kee-farms
-- marine-biology
-- diving
+- Kee Farms
+- Marine Biology
+- Diving
 tags: 
-- kee-farms
-- marine-biology
-- diving
+- Kee Farms
+- Marine Biology
+- Diving
 title: A Trip to Bowden Bay
 image: /docs/assets/images/MeAtBowden.jpeg
 date: 15/02/2023
