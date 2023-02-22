@@ -17,7 +17,11 @@ date: 15/02/2023
 ---
 # A Trip to Bowden Bay
 
-
+<div class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag % style="is-light"}
+    {% endfor %}
+</div>
 
 
 So about a week ago, on February 11, 2023, I went on a dive trip with my team at Kee Farms. Here is a little bit of that story.
