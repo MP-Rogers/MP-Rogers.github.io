@@ -19,7 +19,7 @@ date: 15/02/2023
 
 <div class="tags">
     {% for tag in page.tags %}
-      {% include tag.html tag=tag style="is-green" %}
+      {% include tag.html tag=tag %}
     {% endfor %}
 </div>
 
