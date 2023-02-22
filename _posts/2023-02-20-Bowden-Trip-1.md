@@ -14,14 +14,14 @@ date: 15/02/2023
 ---
 # A Trip to Bowden Bay
 
-<div class="post-tags">
+<div class="post-categories">
   {% if post %}
-    {% assign tags = post.tags %}
+    {% assign categories = post.categories %}
   {% else %}
-    {% assign tags = page.tags %}
+    {% assign categories = page.categories %}
   {% endif %}
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/categories/#{{tag|slugize}}">{{tag}}</a>
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
