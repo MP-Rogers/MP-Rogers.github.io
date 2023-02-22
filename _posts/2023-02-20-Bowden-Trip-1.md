@@ -39,7 +39,7 @@ Some of the irish moss in hand
 </div>
 
 <div align="center">
-<img src ="/docs/assets/images/GracilariaonBeach.jpeg" width ="350" height ="300">
+<img src ="/docs/assets/images/GracilariaOnBeach.jpeg" width ="350" height ="300">
   
 Some of the Irish Moss on the beach from our first trip to White Horses
 </div>
