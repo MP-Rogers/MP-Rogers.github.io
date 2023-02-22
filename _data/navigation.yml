@@ -1,7 +1,7 @@
 - name: Blog
   link: /blog/
 - name: Topics
-  link: https://mp-rogers.github.io/categories/
+  link: /categories/
   #  dropdown: 
 #    - name: Page 2
 #      link: page-2
