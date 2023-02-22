@@ -1,3 +1,7 @@
+<span class="tag {% if include.style %} {{ include.style }} {% else %} is-primary {% endif %}">
+    {{ include.tag }}
+</span>
+
 <div class="post-tags">
   {% if post %}
     {% assign tags = post.tags %}
@@ -5,11 +9,9 @@
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{include.tag}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
 
-<span class="tag {% if include.style %} {{ include.style }} {% else %} is-primary {% endif %}">
-    {{ include.tag }}
-</span>
+
