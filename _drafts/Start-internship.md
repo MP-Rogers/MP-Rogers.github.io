@@ -6,9 +6,10 @@ description: Announcing a new development in my career as a marine biologist
 tags:
   -marine-biology
 ---
+# The Start of Something New
+
 {% for tag in page.tags %} {% include tag.html tag=tag %} {% endfor %}
 
-# The Start of Something New
 
 So, I'm taking on something new for a little while as a marine biologist. I've recently been accepted for an internship at the Discovery Bay Marine Lab in Jamaica. 
 This is one of the main marine labs for the country, and many of Jamaica's (and the caribbean's) Scientists have passed through working here. Especially marine biologists.
