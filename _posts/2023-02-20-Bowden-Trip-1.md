@@ -21,7 +21,7 @@ date: 15/02/2023
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{category}}</a>
+  <a href="{{site.baseurl}}/categories/#{{tag|slugize}}">{{tag}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
