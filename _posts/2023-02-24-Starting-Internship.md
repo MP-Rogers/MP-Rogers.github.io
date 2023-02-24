@@ -4,7 +4,7 @@ title: Starting Something New
 date: 2023-02-24
 description: Announcing a new development in my career as a marine biologist
 tags:
-  -Marine-Biology
+  Marine-Biology
 ---
 # The Start of Something New
 
