@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting Something New
-date:
+date: 24-02-2023
 description: Announcing a new development in my career as a marine biologist
 tags:
   -marine-biology
