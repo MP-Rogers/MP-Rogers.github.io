@@ -51,7 +51,7 @@ Some of the Irish Moss on the beach from our first trip to White Horses
 I'll be honest. I had mixed feelings about this trip to start. Our first batch of seaweed came from a site named White Horses in St. Thomas. Its called that because the waves crashing look like..well..white horses. In other words, the water gets pretty rough. The roads to and from that site are pretty rough in their own right. The first trip was pretty rough in its own right. The second trip to White Horses was even worse. That time, the other divers and I had gotten into a mess. We collected no seaweed and almost got ourselves seriously hurt. It was a textbook case of horrible conditions. Visibility was less than three feet, surge was rough and the current pushed us towards rocks with some serious force. 
 
 <div align="center">
-<img src ="/docs/assets/images/whitehorses.jpeg" width ="450" height =350">
+<img src = "docs/assets/images/whitehorses.jpeg" width ="450" height =350">
 </div>
      
 But as the leader for the last dive, my team and I made sure we analyzed our loss(after a beer) ad figured out what we could do better. One of the major steps was to reach our dive site early, before the water picked up for the day. We had tried to reach early on the previous trip, but due to circumstances, we didnt reach until 1pm, when the sea was already rough.
