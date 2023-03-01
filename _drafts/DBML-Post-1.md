@@ -26,7 +26,7 @@ It also has some very prety views if i do say so myself.
 
 
 <img src="">
-<img src="/docs/assets/images/20230228_185333.jpg" width= "400", height = "200">
+<img src="/docs/assets/images/20230228_185333.jpg" width= "450", height = "250">
 
 
 ### Teaching
@@ -35,7 +35,7 @@ We cleaned the aquariums for the incoming groups to be able to interact with. We
 
 We didn't carry everything back, but the other interns and I brought enough urchins and cucumbers to make sure the high schoolers had cool stuff to see and touch.
 
-<img src ="/docs/assets/images/CoupleSquirelfish.jpg">
+<img src ="/docs/assets/images/CoupleSquirelfish.jpg" width = "450" height = "250">
 
 ### Research
 On my second day. I helped and MSc student with his project. This involved one of my favourite parts of being a marine biologist, scuba diving. On the first day, we had some trouble trying to get his structure into the seabed. We ended up deciding to change our approach and tackle it early the next day.
