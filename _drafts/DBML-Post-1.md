@@ -37,9 +37,17 @@ We didn't carry everything back, but the other interns and I brought enough urch
 
 <img src ="/docs/assets/images/CoupleSquirelfish.jpg" width = "450" height = "250">
 
+Later, at the end of the first week, I assisted some of my former lecturers with the current second year class. It was quite the experience being on the other side. Teaching has never been something i've been drawn to. But being able to give back and assist the lecturers who had supported me during my degree, that felt nice. Plus, as much faith as I have in myself, these students could very well be the next big things in marine biology in the Caribbean(after me of course). And being able to support and cultivate that is something important.
+
+This particular course also runs for the first three weekends in March, so i'll have a couple more rounds to go. I'm sure it will be an experience they remember, and its certainly one I wont forget
+
 ### Research
 On my second day. I helped and MSc student with his project. This involved one of my favourite parts of being a marine biologist, scuba diving. On the first day, we had some trouble trying to get his structure into the seabed. We ended up deciding to change our approach and tackle it early the next day.
 
 Later that day, I started some preliminary scouting for my own pet project. As long as I fulfilled my obligations, I was allowed to take on a research pet project. As you might be able to guess, i've taken on another mariculture project with Gracilaria, on my own this time. The same MSc student returned the favour and helped me look around. I also shared a little about the project idea (and my work at Kee Farms.)
 
 That project might get its own post later as it progresses.
+
+## Overall
+
+A pretty great first week at the internship. I'm looking forward to being a part of the great things being done at the Discovery Bay Marine Lab. I'm also looking forward to growing and learning about myself in the process. At any rate, I see a whole lot of Sun, Sea and Sand in my future for the next few months.
