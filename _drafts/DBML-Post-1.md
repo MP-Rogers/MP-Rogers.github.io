@@ -25,8 +25,9 @@ It also has some very prety views if i do say so myself.
 
 
 
-<img src="">
+<img src="/docs/assets/images/DBMLMorning.jpeg" width="450", height="250">
 <img src="/docs/assets/images/20230228_185333.jpg" width= "450", height = "250">
+Early morning and evening at the beautiful Discovery Bay Marine Lab
 
 
 ### Teaching
@@ -43,6 +44,9 @@ This particular course also runs for the first three weekends in March, so i'll 
 
 ### Research
 On my second day. I helped and MSc student with his project. This involved one of my favourite parts of being a marine biologist, scuba diving. On the first day, we had some trouble trying to get his structure into the seabed. We ended up deciding to change our approach and tackle it early the next day.
+
+<img src="/docs/assets/images/ok1.jpg" width="450 height = "250">
+                                                                
 
 Later that day, I started some preliminary scouting for my own pet project. As long as I fulfilled my obligations, I was allowed to take on a research pet project. As you might be able to guess, i've taken on another mariculture project with Gracilaria, on my own this time. The same MSc student returned the favour and helped me look around. I also shared a little about the project idea (and my work at Kee Farms.)
 
