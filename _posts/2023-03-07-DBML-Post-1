@@ -7,7 +7,7 @@ layout: post
 ---
 
 # First Taste of my new Internship
-
+% for tag in page.tags %} {% include tag.html tag=tag %} {% endfor %}
 
 So, I've finally started my new internship on February 27, 2023. Here's a little summary on how the first few days have been playing out.
 
@@ -24,13 +24,10 @@ and environmental scientists in Jamaica and the wider Caribbean. The lab's main 
 It also has some very prety views if i do say so myself.
 
 
-
 <img src="/docs/assets/images/DBMLMorning.jpeg" width="450", height="250">
 
 
 <img src="/docs/assets/images/20230228_185333.jpg" width= "450", height = "250">
-
-
 
 
 ### Teaching
