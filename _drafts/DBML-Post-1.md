@@ -37,7 +37,7 @@ We cleaned the aquariums for the incoming groups to be able to interact with. We
 
 We didn't carry everything back, but the other interns and I brought enough urchins and cucumbers to make sure the high schoolers had cool stuff to see and touch.
 
-<img src ="/docs/assets/images/CoupleSquirelfish.jpg" width = "450" height = "250">
+<img src ="/docs/assets/images/CoupleSquirelfish.jpg" width = "450", height = "250">
 
 Later, at the end of the first week, I assisted some of my former lecturers with the current second year class. It was quite the experience being on the other side. Teaching has never been something i've been drawn to. But being able to give back and assist the lecturers who had supported me during my degree, that felt nice. Plus, as much faith as I have in myself, these students could very well be the next big things in marine biology in the Caribbean(after me of course). And being able to support and cultivate that is something important.
 
