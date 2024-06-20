@@ -11,10 +11,6 @@ page-layout: full
 title-block-banner: false
 ---
 
-Testing testing 123.
+This page can be considered my portfolio. This portfolio covers some of my favourite posts and projects, across both marine biology and data. Consider it a demonstration of some work I am proud of and capable of.
 
-Add text to introduce portfolio pieces.
-
-Add a link to my linkedin.
-
-Blah blah blah.
+Note: Some of these projects, may be updated as I learn, grow and improve. I will be looking into displaying previous versions where needed.

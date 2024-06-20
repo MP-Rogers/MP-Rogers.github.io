@@ -10,6 +10,19 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/matthew-pierre-rogers-786362224
+    - icon: envelope
+      text: Email
+      href: "mailto:matthewpierrerogers@gmail.com"
 ---
 
-Welcome to Sun and Sea, a blog where I talk about my experiences as a Jamaican marine biologist, and chronicle bits of my story as it unfolds.
+Hi there. This is my blog, Sun and Sea. My name is Matthew-P Rogers, But you'll see MP around the site. I'm a young (at the time of writing), aspiring Jamaican marine biologist and lover of the sea.
+
+I've created this site for a couple of reasons:
+
+Firstly, to share the stuff I find cool, especially marine biology and data, with the world.
+
+Secondly, to leave a record of some of my own projects and progress, for my future self (and anyone else) to look back at along the way.
+
+Finally, to leave some messages and lessons for the (even) younger ones with similar paths to mine, so you can grow and learn from my experience.
+
+Feel free to reach out below. It's nice to meet you and I hope you enjoy your time getting to know me while exploring the Sun and Sea.
